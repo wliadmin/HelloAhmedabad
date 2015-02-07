@@ -12,8 +12,3 @@ a is modified
 
 
 test again a is modified success
-
-
-
-a.txt is modified
-new.txt added
